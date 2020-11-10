@@ -1,0 +1,29 @@
+{
+  "name": "ideia-bilionaria",
+  "version": "1.0.0",
+  "description": "Uma ideia que lhe deixara bilionario(a)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisfelic/ideia-bilionaria.git"
+  },
+  "keywords": [
+    "bilionario",
+    "rico",
+    "fique-rico"
+  ],
+  "author": "Denis Feliciano da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denisfelic/ideia-bilionaria/issues"
+  },
+  "homepage": "https://github.com/denisfelic/ideia-bilionaria#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
